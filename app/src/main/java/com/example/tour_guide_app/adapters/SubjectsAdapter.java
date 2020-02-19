@@ -71,7 +71,7 @@ public class SubjectsAdapter extends Adapter<SubjectsAdapter.SubjectViewHolder> 
     @Override
     public void onBindViewHolder(@NonNull SubjectsAdapter.SubjectViewHolder holder, final int position) {
         holder.subjectName.setText(mSubject.get(position).getSubjectName());
-        switch(holder.getAdapterPosition()){
+        switch(mSubject.get(position).getSubjectNumber()){
             case 0:
                 holder.subjectName.setShadowLayer(2,1.5f,1.3f,mContext.getResources().getColor(R.color.col_flowers));
                 break;

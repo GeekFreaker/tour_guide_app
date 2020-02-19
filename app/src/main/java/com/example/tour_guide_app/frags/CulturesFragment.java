@@ -44,7 +44,7 @@ public class CulturesFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        cultures.add(new Subject(getString(R.string.culturePedi),getString(R.string.culturePediDescDesc),getString(R.string.culturePediDescMore),0,R.drawable.sepedi));
+        cultures.add(new Subject(getString(R.string.culturePedi),getString(R.string.culturePediDesc),getString(R.string.culturePediDescMore),0,R.drawable.sepedi));
         cultures.add(new Subject(getString(R.string.cultureNdebele),getString(R.string.cultureNdebeleDesc),getString(R.string.cultureNdebeleDescMore),1,R.drawable.ndebele));
         cultures.add(new Subject(getString(R.string.cultureZulu),getString(R.string.cultureZuluDesc),getString(R.string.cultureZuluDescMore),2,R.drawable.zulu));
         cultures.add(new Subject(getString(R.string.cultureVenda),getString(R.string.cultureVendaDesc),getString(R.string.cultureVendaDescMore),3,R.drawable.venda));
