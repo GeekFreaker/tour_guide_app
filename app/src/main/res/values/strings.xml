@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="splash_name"> </string>
+    <string name="main_name">Johannesubrg</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="strCultural">Cultural</string>
+    <string name="strFlowers">Flowers</string>
+    <string name="strHistorical">Historical</string>
+    <string name="strWildLife">Wild Life</string>
+    <string name="strPolitical">Political Parties</string>
+
+    <!-- Political Parties -->
+    <string name="partyDA">Democratic Alliance (DA)</string>
+    <string name="partyANC">African National Congress (ANC)</string>
+    <string name="partyEFF">Economic Freedom Fighters (EFF)</string>
+    <string name="partyAZAPO">Azanian Peoples Organization (AZAPO)</string>
+    <string name="partyUDM">United Democratic Movements (UDM)</string>
+
+    <string name="partyDADesc">The Democratic Alliance (DA) is a South African political party</string>
+    <string name="partyANCDesc">The African National Congress is the Republic of South Africa`s governing political party.</string>
+    <string name="partyEFFDesc">The Economic Freedom Fighters (EFF) is a South African far-left[15] Pan-Africanist political party.</string>
+    <string name="partyAZAPODesc">The Azanian People`s Organisation (AZAPO) is a South African political party</string>
+    <string name="partyUDMDesc">The United Democratic Movement (UDM) is a centre-left, social-democratic, South African political party</string>
+
+    <string name="partyDADescMore">The Democratic Alliance is a South African political party and the official opposition to the governing African National Congress. The interim leader of the party is John Steenhuisen, who was elected on 17 November 2019 and succeeded Mmusi Maimane.</string>
+    <string name="partyANCDescMore">The African National Congress is the Republic of South Africa`s governing political party. It has been the ruling party of post-apartheid South Africa since the election of Nelson Mandela in the 1994 election, winning every election since then.</string>
+    <string name="partyEFFDescMore">The EFF was founded by expelled former African National Congress Youth League President Julius Malema, and his allies, in 2013</string>
+    <string name="partyAZAPODescMore">The organisation`s two student wings are the Azanian Students` Movement (AZASM) for high school learners and the other being for university level students called the Azanian Students` Convention (AZASCO), its women`s wing is Imbeleko Women`s Organisation, simply known as IMBELEKO.</string>
+    <string name="partyUDMDescMore">A former African National Congress and Transkei homeland leader, General Bantu Holomisa, and a former ANC Executive Committee member, John Taylor. It has an anti-separatist, pro-diversity platform; and supports an individualist South Africa with a strong moral sense, in both social and economic senses. </string>
+
+    <!-- Flowers -->
+    <string name="flowerZinnia"> Zinnias </string>
+    <string name="flowerProtea"> Proteas </string>
+    <string name="flowerSugarCane"> Sugar Cane</string>
+    <string name="flowerMaize">Maize</string>
+    <string name="flowerCosmos"> Cosmos Flowers</string>
+
+    <string name="flowerZinniaDesc">  Zinnia is a genus of plants of the sunflower tribe within the daisy family.  </string>
+    <string name="flowerProteaDesc"> Protea cynaroides, the king Protea, is a flowering plant. </string>
+    <string name="flowerSugarCanDesc"> Most of the world`s sugarcane is grown in subtropical and tropical areas.</string>
+    <string name="flowerMaizeDesc"> Zea is a genus of flowering plants in the grass family.</string>
+    <string name="flowerCosmosDesc"> Cosmos is a genus, with the same common name of cosmos, consisting of flowering plants in the sunflower family</string>
+
+    <string name="flowerZinniaDescMore">They are native to scrub and dry grassland in an area stretching from the Southwestern United States to South America, with a centre of diversity in Mexico. </string>
+    <string name="flowerProteaDescMore"> Protea is both the botanical name and the English common name of a genus of South African flowering plants, sometimes also called sugarbushes or fynbos. In local tradition, the protea flower represents change and hope.  </string>
+    <string name="flowerSugarCaneDescMore"> Sugarcane, or sugar cane, or simply cane, are several species of tall perennial true grasses of the genus Saccharum, tribe Andropogoneae, used for sugar production. The plant is two to six metres tall. It has stout, jointed, fibrous stalks that are rich in sucrose, which accumulates in the stalk internodes.</string>
+    <string name="flowerMaizeDescMore"> Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that yield kernels or seeds, which are fruits.</string>
+    <string name="flowerCosmosDescMore"> Cosmos are herbaceous perennial plants or annual plants growing 0.3–2 m (1 ft 0 in–6 ft 7 in) tall. The leaves are simple, pinnate, or bipinnate, and arranged in opposite pairs. The flowers are produced in a capitulum with a ring of broad ray florets and a center of disc florets; flower color is very variable between the different species. </string>
+
+    <!-- Historical Monuments -->
+    <string name="hisMon_LuthuliHouse">Luthuli House</string>
+    <string name="hisMon_BotannicalGardens">Botannical Gardens</string>
+    <string name="hisMon_ORTambo">O.R Tambo International Airport</string>
+    <string name="hisMon_Vilakazi">Vilakazi Street (Soweto)</string>
+    <string name="hisMon_ConstituionHill">Constitution Hill</string>
+
+    <string name="hisMon_LuthuliHouseDesc">Founding headquarters of the ANC</string>
+    <string name="hisMon_BotannicalGardensDesc">The Johannesburg Zoological gardens Botannical Gardens</string>
+    <string name="hisMon_ORTamboDesc">Oliver Reginald Tambo International Airport</string>
+    <string name="hisMon_VilakaziDesc">The iconic Vilakazi Street (Soweto)</string>
+    <string name="hisMon_ConstituionHillDesc">Constitution Hill</string>
+
+    <string name="hisMon_LuthuliHouseDescMore">Chief Albert Luthuli House in Johannesburg, more simply known as Luthuli House,
+                                               is the headquarters of the African National Congress and other subsidiary organizations.
+                                               The name "Luthuli House" is frequently used as a metonym for the national leadership of the ANC. </string>
+
+    <string name="hisMon_BotannicalGardensDescMore">The Johannesburg Botanical Garden is located in the suburb of Emmarentia in Johannesburg,
+                                                    South Africa. The gardens grew out of a large rose garden that was established in 1964
+                                                    and subsequently expanded from 1969 to cover an area of around 125 hectares.
+                                                    It is administered by Johannesburg City Parks</string>
+
+    <string name="hisMon_ORTamboDescMore">O.R. Tambo International Airport is a major international airport situated in Kempton Park (Gauteng)
+                                          South Africa. It serves as the primary airport for domestic and international travel to-from South Africa
+                                          and is Africa\'s busiest airport, with a capacity to handle up to 28 million passengers annually.</string>
+
+    <string name="hisMon_VilakaziDescMore">Both Nelson Mandela and Archbishop Emeritus Desmond Tutu lived here – how many places can claim
+                                           that two Nobel Prize winners lived in the same street. In fact, Tutu, as he is more fondly known,
+                                           still lives here with his wife Leah, and when he\'s in town he is said to stroll the streets.</string>
+
+    <string name="hisMon_ConstituionHillDescMore">The Constitution Hill precinct is located at 11 Kotze Street in Braamfontein,
+                                                  Johannesburg near the western end of the suburb of Hillbrow. Constitution Hill
+                                                  is the seat of the Constitutional Court of South Africa. </string>
+
+    <!-- Cultures -->
+    <string name="culturePedi">Sepedi</string>
+    <string name="cultureZulu">isiZulu</string>
+    <string name="cultureVenda">vhaVhenda</string>
+    <string name="cultureNdebele">isiNdebele</string>
+    <string name="cultureXhosa">isiXhosa</string>
+
+    <string name="culturePediDesc">A language and culture originbating from the <strong>Limpopo</strong></string>
+    <string name="cultureZuluDesc">A language originating from <strong>Kwa Zulu Natal</strong></string>
+    <string name="cultureVendaDesc">The proud <strong>vhaVhenda</strong> language and culture </string>
+    <string name="cultureNdebeleDesc">The proud <strong>Ndebele</strong></string>
+    <string name="cultureXhosaDesc"><strong>isiXhosa</strong> : originating from the Eastern Cape </string>
+
+    <string name="culturePediDescMore"><b>Pedi</b> – is the Bantu ethnic group in Africa. \n\n
+                                       The Northern Sotho have been subdivided into the <i>Highveld Sotho</i>,
+                                       which are comparatively recent immigrants mostly from the west and southwest,
+                                       and the <i>Lowveld Sotho</i>, who combine immigrants from the north with inhabitants
+                                       of longer standing</string>
+
+    <string name="cultureZuluDescMore">The Zulu, or also known as <u>Amazulu</u>, are a Bantu ethnic group of Southern Africa. \n\n
+                                       <i>The Zulu</i> are the largest ethnic group in South Africa with an estimated 10–12 million
+                                       people living mainly in the province of KwaZulu-Natal. The <i>Zulu</i> originated from Nguni
+                                       communities who took part in the <i>Bantu migrations.</i> </string>
+
+    <string name="cultureVendaDescMore"><b>Venda, Vendaland</b>. The <i>Venda (VhaVenda or Vhangona)</i> are a Southern African Bantu people living
+                                        mostly near the <u>South African-Zimbabwean border</u>. The bantustan of Venda was created to become
+                                        a homeland for the <i>Venda</i> people.</string>
+
+    <string name="cultureNdebeleDescMore"><b>Ndebele</b>, also called <i>Ndebele of Zimbabwe, or Ndebele Proper, formerly Matabele</i>, Bantu-speaking people of
+                                          southwestern Zimbabwe who now live primarily around the city of <u>Bulawayo</u>. They originated early in the
+                                          19th century as an offshoot of the Nguni of Natal.</string>
+
+    <string name="cultureXhosaDescMore">The <i>Xhosa people</i> are a Bantu ethnic group from Southern Africa mainly found in the Eastern and Western Cape,
+                                        South Africa, and in the last two centuries throughout the southern and central-southern parts of the country.</string>
+
+
+    <!-- Wild Life -->
+    <string name="wildKudu">Kudu</string>
+    <string name="wildRhino">Rhino</string>
+    <string name="wildLion">Lion</string>
+    <string name="wildBuffalo">Wildebeest</string>
+    <string name="wildHippo">Hippopotamus</string>
+
+    <string name="wildKuduDesc">Tragelaphus strepsiceros</string>
+    <string name="wildRhinoDesc">Rhinocerotidae</string>
+    <string name="wildLionDesc">Felidae</string>
+    <string name="wildBuffaloDesc">Bovidae</string>
+    <string name="wildHippoDesc">=Hippopotamidae</string>
+
+    <string name="wildKuduDescMore">The greater kudu is a woodland antelope found throughout eastern and southern Africa. Despite occupying such widespread territory, they are sparsely populated in most areas due to declining habitat, deforestation, and poaching.</string>
+    <string name="wildRhinoDescMore">A rhinoceros, commonly abbreviated to rhino, is one of any five extant species of odd-toed ungulates in the family Rhinocerotidae, as well as any of the numerous extinct species therein. Two of the extant species are native to Africa, and three to Southern Asia.</string>
+    <string name="wildLionDescMore">The lion is a species in the family Felidae; it is a muscular, deep-chested cat with a short, rounded head, a reduced neck and round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions have a prominent mane, which is the most recognisable feature of the species</string>
+    <string name="wildBuffaloDescMore">The wildebeest, also called the gnu, is an antelope in the genus Connochaetes. It belongs to the family Bovidae, which includes antelopes, cattle, goats, sheep, and other even-toed horned ungulates. </string>
+    <string name="wildHippoDescMore">The hippopotamus, or common hippopotamus, is a large, mostly herbivorous, semiaquatic mammal and ungulate native to sub-Saharan Africa. It is one of only two extant species in the family Hippopotamidae, the other being the pygmy hippopotamus. The name comes from the ancient Greek for "river horse". </string>
+
+    <string name="title_activity_details">Detailed Info</string>
+    <string name="go_back">go back</string>
+</resources>

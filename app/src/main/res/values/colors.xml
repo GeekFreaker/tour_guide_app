@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAD06B</color>
+    <color name="colorPrimaryDark">#744C0B</color>
+    <color name="colorAccent">#DAAD0D</color>
+
+    <!-- Subject based colors -->
+    <color name="col_poltiical">#302E2E</color>
+    <color name="col_historical">#5F4141</color>
+    <color name="col_wildlife">#756641</color>
+    <color name="col_cultures">#AFB42B</color>
+    <color name="col_flowers">#388E3C</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
